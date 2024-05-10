@@ -94,12 +94,7 @@ You'll need to use the `useParams` hook to get URL parameter data about which
 movie you want to render, then use that data to fetch and render the appropriate
 movie.
 
-### Directors
-
-This component should render on the `/directors` route. It should display the
-text `Directors Page` in an `<h1>`, and render a new `<article>` element for
-each director in our array of directors. The `<article>` should contain the
-director's name in an `<h2>` and a `<ul>` with a list of their movies.
+     
 
 ### Actors
 
